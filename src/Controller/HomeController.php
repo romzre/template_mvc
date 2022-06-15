@@ -1,7 +1,6 @@
 <?php
 namespace App\Controller;
 
-use Composer\Autoload\ClassLoader;
 use Core\Controller;
 
 Class HomeController extends Controller{
